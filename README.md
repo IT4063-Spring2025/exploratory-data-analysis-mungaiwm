@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dVbSP2w4)
 # Exploratory Data Analysis - Lab
 
 ## Introduction
@@ -22,3 +23,9 @@ This assignment does not assume any particular setup. To install the dependencie
 ---
 ## Copyrights and License
 IT4063C Data Technologies Analytics by [Yahya Gilany](https://yahyagilany.io). is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+# What I learnt: I practiced cleaning and preprocessing data to make it suitable for analysis and I used various visualization techniques to explore and understand the distribution of variables in the data.
+
+# what I struggled with: Debugging errors was challenging. I had to learn how to read error messages and trace the source of the problem in my code.
+
+# What I can do differently : I would practice understanding the errors more.
